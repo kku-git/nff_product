@@ -31,42 +31,47 @@
   },
   {
     "id": 6,
-    "title": "lace line hair pin",
+    "title": "dot heart hairpin-olive",
     "price": "KRW 41,000"
   },
   {
     "id": 7,
-    "title": "logo hair pin_silver",
+    "title": "dot heart hairpin-ivory",
     "price": "KRW 43,000"
   },
   {
     "id": 8,
-    "title": "terry hair scrunchie_khaki",
+    "title": "dot heart hairpin-black",
     "price": "KRW 48,000"
   },
   {
     "id": 9,
-    "title": "big bliss wappen cap_ivory",
-    "price": "KRW 66,000"
+    "title": "plaid scrunchie mini-green",
+    "price": "KRW 16,000"
   },
   {
     "id": 10,
-    "title": "string ribbon hairpin-mint",
-    "price": "KRW 40,000"
+    "title": "check scrunchie big-blue",
+    "price": "KRW 28,000"
   },
   {
     "id": 11,
-    "title": "multi string band-black",
-    "price": "KRW 57,000"
+    "title": "void scrunchie-black",
+    "price": "KRW 23,000"
   },
   {
     "id": 12,
-    "title": "string ribbon hairpin-ivory",
-    "price": "KRW 50,000"
+    "title": "void scrunchie-white",
+    "price": "KRW 23,000"
   },
   {
     "id": 13,
+    "title": "string ribbon hairpin-ivory",
+    "price": "KRW 36,000"
+  },
+  {
+    "id": 14,
     "title": "string ribbon hairpin-black",
-    "price": "KRW 52,000"
+    "price": "KRW 36,000"
   }
 ]

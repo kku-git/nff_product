@@ -1,0 +1,67 @@
+[
+  {
+    "id": 0,
+    "title": "dot heart necklace-olive",
+    "price": "KRW 55,000"
+  },
+  {
+    "id": 1,
+    "title": "dot heart necklace-ivory",
+    "price": "KRW 55,000"
+  },
+  {
+    "id": 2,
+    "title": "dot heart necklace-navy",
+    "price": "KRW 55,000"
+  },
+  {
+    "id": 3,
+    "title": "[silver925] luna pearl necklace-blue",
+    "price": "KRW 49,000"
+  },
+  {
+    "id": 4,
+    "title": "heart hole mini necklace-silver",
+    "price": "KRW 39,000"
+  },
+  {
+    "id": 5,
+    "title": "deep love necklace-silver",
+    "price": "KRW 42,000"
+  },
+  {
+    "id": 6,
+    "title": "stepping stone necklace-black",
+    "price": "KRW 65,000"
+  },
+  {
+    "id": 7,
+    "title": "cloud necklace-blue",
+    "price": "KRW 52,000"
+  },
+  {
+    "id": 8,
+    "title": "[silver925] goodness necklace-silver",
+    "price": "KRW 60,000"
+  },
+  {
+    "id": 9,
+    "title": "starry necklace-black",
+    "price": "KRW 55,000"
+  },
+  {
+    "id": 10,
+    "title": "free bird necklace-red",
+    "price": "KRW 55,000"
+  },
+  {
+    "id": 11,
+    "title": "free bird necklace-olive",
+    "price": "KRW 55,000"
+  },
+  {
+    "id": 12,
+    "title": "free bird necklace-sky",
+    "price": "KRW 55,000"
+  }
+]
